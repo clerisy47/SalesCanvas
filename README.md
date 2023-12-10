@@ -1,5 +1,5 @@
 # SalesCanvas
-A tableau project focusing on summarizing sales of a company with dashboard
+A my SQL and tableau project focusing on collecting data from sql table and summarizing sales of a company with dashboard
 
 ## Purpose
 To unlock previously unseen sales insights for the sales team for decision support and automate to reduce manual data collection time

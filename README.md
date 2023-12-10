@@ -8,6 +8,7 @@ To unlock previously unseen sales insights for the sales team for decision suppo
 + Data Analytics Team
 + Sales Director
 + Marketing Team
++ IT Engineers
 
 ## End Results
 An automated dashboard to quickly generate new sales insights to support data-driven decision making.

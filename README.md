@@ -17,5 +17,5 @@ An automated dashboard to quickly generate new sales insights to support data-dr
 Sales analysts save 10% in costs by making better decisions and spending 20% ​​of the time manually collecting data.
 
 ## Tableau link
-(Dashboard) [https://public.tableau.com/app/profile/utsav.acharya/viz/SalesInsightDashboard1_17024819261580/Dashboard1]
+[Dashboard](https://public.tableau.com/app/profile/utsav.acharya/viz/SalesInsightDashboard1_17024819261580/Dashboard1)
 
